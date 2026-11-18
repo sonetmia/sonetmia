@@ -17,61 +17,9 @@ Tangail, Bangladesh
 
 ## 1. Professional Introduction — Md. Sonet Mia
 
-**Md. Sonet Mia** is a multidisciplinary professional from Bangladesh with an academic background in English Language and Literature and experience in education, teaching, community engagement, leadership and digital innovation.
+**Md. Sonet Mia** — Educator, Community Leader & Digital Innovator from Tangail, Bangladesh. A multidisciplinary professional with an academic background in English Language and Literature, working in education, teaching, community leadership and AI-powered digital innovation — creating learning opportunities and making education and creativity more accessible through technology.
 
-**Professional Title:** Educator, Community Leader &amp; Digital Innovator
-**Location:** Tangail, Bangladesh
-**Portfolio:** [sonet-mia.vercel.app](https://sonet-mia.vercel.app)
-
-### SONET Brand Identity
-
-**SONET** is a multidisciplinary professional identity combining education, AI-powered innovation, digital services, microstock mentoring, web development, content production and community leadership.
-
-The SONET logo is a stylized turquoise S symbol with the SONET wordmark. The logo is preserved as supplied — it is not redesigned or distorted here. This profile uses a clean text-based SONET wordmark with the black-and-gold profile banner.
-
-**Brand Personality:** Innovative, educational, trustworthy, creative, technology-driven and community-focused.
-
-### Professional Bio
-
-I am a multidisciplinary professional from Bangladesh with an academic background in English Language and Literature and experience in education, teaching, community engagement, leadership and digital innovation. I am passionate about creating meaningful learning opportunities, empowering communities and exploring how technology, artificial intelligence and digital solutions can make education and creativity more accessible.
-
-### Profile Banner
-
-The banner at the top of this profile is the Premium SONET Profile Banner — black with gold lettering, carrying the name Md. Sonet Mia and the SONET identity. The banner file is `welcome-black.svg` in this repository.
-
-### Current Focus &amp; Interests
-
-- Microstock training, mentoring and stock content creation
-- AI automation, AI training and digital education
-- Website and web application development
-- AI video and content production
-- English language teaching and coaching
-- Leadership and community development
-
-### Professional Mission &amp; Vision
-
-**Mission:** To create meaningful learning opportunities, empower communities, and make education and creativity more accessible through technology, artificial intelligence and digital solutions.
-
-**Vision:** A community where learners can build modern technology skills, create with AI, and turn creativity into sustainable digital work.
-
-### Location
-
-Tangail, Bangladesh — Office Location: Tangail, Bangladesh
-
-### Personal Portfolio Website
-
-[https://sonet-mia.vercel.app](https://sonet-mia.vercel.app)
-
-### Contact Information
-
-- **Email:** [md.sonet.mia01@gmail.com](mailto:md.sonet.mia01@gmail.com)
-- **WhatsApp:** [wa.me/8801797953059](https://wa.me/8801797953059)
-- **Telegram:** [t.me/+8801797953059](https://t.me/+8801797953059)
-- **Facebook:** [facebook.com/mdsonet.mia.777](https://www.facebook.com/mdsonet.mia.777)
-- **GitHub:** [github.com/sonetmia](https://github.com/sonetmia)
-- **CV:** Available on request via [WhatsApp](https://wa.me/8801797953059)
-
-> Let's work together and create something meaningful. Whether you need educational guidance, AI training, digital solutions, creative production or community-focused collaboration, I would be happy to hear from you.
+**SONET** combines education, AI innovation, digital services, microstock mentoring, web development, content production and community leadership. Portfolio: [sonet-mia.vercel.app](https://sonet-mia.vercel.app)
 
 ---
 
